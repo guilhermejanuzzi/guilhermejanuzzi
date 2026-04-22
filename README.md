@@ -1,19 +1,39 @@
-## 👋 Guilherme Januzzi
+## Olá, eu sou o Guilherme Januzzi
 
-Desenvolvedor de software e estou graduando em Ciência da Computação, com atuação em programação e interesse contínuo em segurança da informação.
+Estudante de Ciência da Computação com foco em **Segurança da Informação**, com interesse em análise de vulnerabilidades, exploração de falhas e proteção de sistemas.
 
-Trabalho com desenvolvimento e manutenção de sistemas, suporte técnico, com atenção à qualidade do código, organização e princípios de segurança da informação.
+Tenho dedicação contínua ao aprendizado em cibersegurança, buscando compreender como sistemas podem ser comprometidos para então torná-los mais seguros. Possuo conhecimento em fundamentos de segurança, boas práticas e comportamento de aplicações em diferentes cenários.
 
-Este GitHub é utilizado para armazenar projetos, estudos e experimentos relacionados ao desenvolvimento de software e segurança da informação.
+Além disso, utilizo **Python** como ferramenta para automação, análise e desenvolvimento de scripts voltados à segurança.
 
-### 🛠 Conhecimentos
-- Programação
-- Suporte Tecnico
-- Python
-- Html e Css
-- JavaScript
-- Desenvolvimento de sistemas
-- APIs REST
-- Fundamentos de segurança da informação
-- Git & GitHub
- 
+Este GitHub é utilizado para armazenar:
+- Estudos em Segurança da Informação
+- Testes e experimentos práticos
+- Scripts e ferramentas em Python
+- Projetos relacionados à análise e proteção de sistemas
+
+---
+
+## Foco em Segurança
+
+- Fundamentos de Segurança da Informação  
+- Análise de vulnerabilidades  
+- Conceitos de segurança ofensiva (pentest)  
+- Boas práticas de proteção de sistemas  
+- Estudo contínuo em cibersegurança  
+
+---
+
+## Ferramentas e Tecnologias
+
+- **Python** (automação e scripts para segurança)  
+- **Git & GitHub**  
+- **APIs REST**  
+- **HTML, CSS e JavaScript**  
+- Sistemas e suporte técnico  
+
+---
+
+## Objetivo
+
+Construir carreira na área de **Cibersegurança**, com foco em identificação de vulnerabilidades, testes de segurança e fortalecimento de sistemas.
